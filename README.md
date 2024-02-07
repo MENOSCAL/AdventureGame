@@ -1,16 +1,17 @@
 # Adventure Game
 
-Created a simple, interactive, text-based adventure game in Python, using modules, loops, conditionals, and functions.
+* Wrote Python code using programming logic and refactored code using functions.
+* Created a simple, interactive, text-based adventure game in Python, using modules, loops, conditionals, and functions.
 
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Creator](#creators)
+* [Creators](#creators)
 
 ## Instructions
 
-* clone the project
-* open the python file in a console
+* Clone project
+* Run the python file in the console
 
 ## Creators
 
